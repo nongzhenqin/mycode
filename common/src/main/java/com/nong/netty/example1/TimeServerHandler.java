@@ -1,4 +1,4 @@
-package com.nong.netty.example1;
+package nong.netty.example1;
 
 import io.netty.channel.ChannelHandlerAdapter;
 import io.netty.channel.ChannelHandlerContext;

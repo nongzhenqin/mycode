@@ -2,7 +2,6 @@ package com.nong.designmode.decorator;
 
 import com.nong.designmode.decorator.correct.HeightScoreDecorator;
 import com.nong.designmode.decorator.correct.SortDecorator;
-import com.nong.designmode.decorator.wrong.SugarFouthGradeSchoolReport;
 
 /**
  * @ClassName: Father

@@ -1,4 +1,4 @@
-package com.nong.designmode.decorator.wrong;
+package nong.designmode.decorator.wrong;
 
 import com.nong.designmode.decorator.FouthGradeSchoolReport;
 
