@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: alibaba-cloud-server1
+  cloud:
+    nacos:
+      config:
+        file-extension: properties
+      server-addr: 127.0.0.1:8848
