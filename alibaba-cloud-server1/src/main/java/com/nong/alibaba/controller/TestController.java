@@ -12,7 +12,7 @@ import java.util.Map;
 @RefreshScope
 public class TestController {
 
-    @Value("${name}")
+    @Value("${name:nnn}")
     private String name;
 
     @GetMapping("/test1")
